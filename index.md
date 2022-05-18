@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ars media design
 
 You can use the [editor on GitHub](https://github.com/ars-media/arsmedia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
